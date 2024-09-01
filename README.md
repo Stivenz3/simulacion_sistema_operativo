@@ -1,4 +1,3 @@
-# simulacion_sistema_operativo
 # Simulación de Sistema Operativo
 
 ## Funcionalidades
